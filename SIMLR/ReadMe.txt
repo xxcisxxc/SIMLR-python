@@ -1,0 +1,3 @@
+Before running demo.py, please ensure that your Python is version 3.7, and NumPy v1.14, scikit-learn v0.20. 
+Then please enter the directory src, and run setup.py using command "python setup.py build". Then a sub-directory named build will be automatically produced. Copy all the files in /build/lib... into the directory src.
+All the data sets are saved in .pkl files which is convenient to use in python. Their original data are saved in .csv files.
