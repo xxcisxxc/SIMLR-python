@@ -10,8 +10,8 @@ Then a sub-directory named 'build' will be automatically produced. Copy all the 
 All the data sets are saved in .pkl files which is convenient to use in python. Their original data are saved in .csv files.
 
 ## Overview of the SIMLR algorithm
-![](/SIMLR-pic/SIMLR-pic.001 "001")
-![](/SIMLR-pic/SIMLR-pic.002 "002")
-![](/SIMLR-pic/SIMLR-pic.003 "003")
-![](/SIMLR-pic/SIMLR-pic.004 "004")
-![](/SIMLR-pic/SIMLR-pic.005 "005")
+![](https://github.com/5966466/SIMLR-python/blob/master/SIMLR-pic/SIMLR-pic.001.jpeg "001")
+![](https://github.com/5966466/SIMLR-python/blob/master/SIMLR-pic/SIMLR-pic.002.jpeg "002")
+![](https://github.com/5966466/SIMLR-python/blob/master/SIMLR-pic/SIMLR-pic.003.jpeg "003")
+![](https://github.com/5966466/SIMLR-python/blob/master/SIMLR-pic/SIMLR-pic.004.jpeg "004")
+![](https://github.com/5966466/SIMLR-python/blob/master/SIMLR-pic/SIMLR-pic.005.jpeg "005")
