@@ -12,3 +12,4 @@ from .umkl_bo import umkl_bo
 from .Kbeta import Kbeta
 from .tsne_p_bo import tsne_p_bo
 from .Cal_NMI import Cal_NMI
+from .LaplacianScore import LaplacianScore
