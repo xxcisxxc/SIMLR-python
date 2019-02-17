@@ -5,7 +5,7 @@ Before running demo.py, please ensure that your Python is version 3.7.1, and Num
 
 If you first run these codes, please enter src directory and run setup.py using command
 `python setup.py build`
-Then a sub-directory named 'build' will be automatically produced. Copy all the files in '/build/lib...' into the directory src. *This procedure is to help compile all the C/C++ files.*
+Then a sub-directory named 'build' will be automatically produced. Copy all the files in '/build/lib...' into the directory src. *This procedure helps compile all the C/C++ files.*
 
 All the data sets are saved in .pkl files which is convenient to use in python. Their original data are saved in .csv files.
 
