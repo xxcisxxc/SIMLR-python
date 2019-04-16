@@ -13,3 +13,9 @@ from .Kbeta import Kbeta
 from .tsne_p_bo import tsne_p_bo
 from .Cal_NMI import Cal_NMI
 from .LaplacianScore import LaplacianScore
+from .KNN_Annoy import KNN_Annoy
+from .top_eig import top_eig
+from .large_multipleK import large_multipleK
+from .large_L2_distance_1 import large_L2_distance_1
+from .SIMLR_embedding_tsne import SIMLR_embedding_tsne
+from .compute_wtsne_obj_grad_repulsive_barneshut import compute_wtsne_obj_grad_repulsive_barneshut
